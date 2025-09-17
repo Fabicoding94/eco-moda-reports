@@ -1,0 +1,33 @@
+/* Card & buttons locali */
+.card { border-radius: 1rem; }
+.card-title { font-weight: 600; }
+.btn { font-weight: 500; }
+
+/* Modale (allineata al tema globale) */
+.modal-overlay{
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.5);
+  display: flex; justify-content: center; align-items: center;
+  z-index: 1000;
+}
+.modal-content{
+  background: var(--surface);
+  color: var(--ink);
+  padding: 1.5rem;
+  border-radius: 12px;
+  width: min(500px, 90%);
+  border: 1px solid var(--ring);
+  box-shadow: var(--shadow);
+}
+/* titolo modale, NON la hero */
+.modal-content h2{
+  margin: 0 0 .75rem;
+  font-size: 1.25rem;
+  font-weight: 800;
+}
+
+/* ————— RIMOSSE perché confliggono con la hero —————
+h1 { ... }
+.intro { ... }
+.sub-intro { ... }
+*/
