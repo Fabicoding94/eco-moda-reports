@@ -4,7 +4,7 @@
 Progetto demo full-stack con Spring Boot (backend) e Angular (frontend) per la consultazione e il download di report di sostenibilità.
 Non è previsto alcun database.
 
-#⚙️ Backend (Spring Boot)
+⚙️ #Backend (Spring Boot)
 Avvio
 
 Posizionarsi nella cartella backend/.
