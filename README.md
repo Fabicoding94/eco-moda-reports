@@ -1,11 +1,10 @@
-# Eco-Moda Reports
+# Eco-Moda Reports  README
 
-Eco Moda Reports – README
 
 Progetto demo full-stack con Spring Boot (backend) e Angular (frontend) per la consultazione e il download di report di sostenibilità.
 Non è previsto alcun database.
 
-⚙️ Backend (Spring Boot)
+#⚙️ Backend (Spring Boot)
 Avvio
 
 Posizionarsi nella cartella backend/.
@@ -26,7 +25,7 @@ Metodo C: configurazione Run/Debug (vedi immagine 1 allegata).
 
 L’API sarà disponibile su http://localhost:8080.
 
-🎨 Frontend (Angular)
+#🎨 Frontend (Angular)
 Posizionarsi nella cartella frontend/.
 
 Installare le dipendenze:
@@ -38,13 +37,13 @@ ng serve -o
 
 L’app sarà disponibile su http://localhost:4200.
 
-🔗 Flusso di lavoro
+#🔗 Flusso di lavoro
 
 Avviare prima il backend (Spring Boot).
 Una volta che Angular ha fatto lo start, aprire http://localhost:4200.
 L’interfaccia comunicherà con il backend per recuperare i report JSON e scaricare i PDF.
 
-📦 Note
+#📦 Note
 Non è richiesto alcun database: i dati sono gestiti tramite file JSON normalizzati.
 
 Tecnologie usate:
