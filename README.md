@@ -1,13 +1,6 @@
 # Eco-Moda Reports  README
 
 
-Il tuo README è già chiaro e lineare 👌.
-Posso renderlo un po’ più leggibile e “professionale”, con titoli uniformi, sezioni più compatte, bullet point e un piccolo **Quick Start** in cima.
-
-Ecco una versione migliorata:
-
----
-
 # 🌱 Eco-Moda Reports
 
 Progetto demo full-stack con **Spring Boot (backend)** e **Angular (frontend)** per la consultazione e il download di report di sostenibilità.
@@ -86,8 +79,6 @@ ng serve -o
 * **Frontend** → Angular, TypeScript, Bootstrap
 * **Ambiente di sviluppo consigliato** → IntelliJ IDEA / VS Code, Node.js LTS
 
----
 
-Vuoi che ti preparo anche una **versione super-minimal** (tipo 8–10 righe in totale, solo quick start e link), da mettere all’inizio e lasciare questa più dettagliata sotto?
 
 
